@@ -1,4 +1,4 @@
-# Information Retrivel-Compression-Techniques
+# Compression-Techniques
 Implememtaion & comparison of compression techniques in Information Retrievel.
 
 ## Dataset Used:
